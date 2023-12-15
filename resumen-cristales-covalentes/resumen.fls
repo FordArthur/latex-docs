@@ -202,6 +202,10 @@ INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.st
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\resumen.aux
@@ -219,7 +223,6 @@ INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sy
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
@@ -245,15 +248,24 @@ INPUT .\imagenes\grafito.png
 INPUT .\imagenes\grafito.png
 INPUT .\imagenes\grafito.png
 INPUT .\imagenes\grafito.png
-INPUT .\imagenes\dinitrogeno.png
-INPUT .\imagenes\dinitrogeno.png
-INPUT .\imagenes\dinitrogeno.png
-INPUT .\imagenes\grafito.png
-INPUT .\imagenes\grafito.png
-INPUT .\imagenes\grafito.png
-INPUT C:\Users\Ford\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\imagenes\cloruro de hidrógeno.png
+INPUT .\imagenes\cloruro de hidrógeno.png
+INPUT .\imagenes\cloruro de hidrógeno.png
+INPUT .\imagenes\cloruro de hidrógeno.png
+INPUT .\imagenes\cloruro de hidrógeno.png
+INPUT .\imagenes\cloruro de hidrógeno.png
+INPUT .\imagenes\dioxido de silicio.png
+INPUT .\imagenes\dioxido de silicio.png
+INPUT .\imagenes\dioxido de silicio.png
+INPUT .\imagenes\dioxido de silicio.png
+INPUT .\imagenes\dioxido de silicio.png
+INPUT .\imagenes\dioxido de silicio.png
+INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
+INPUT C:\Users\Ford\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT resumen.aux
+INPUT C:\Users\Ford\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Ford\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
@@ -266,5 +278,7 @@ INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
+INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\Ford\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb

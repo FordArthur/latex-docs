@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.13)  15 DEC 2023 08:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.13)  15 DEC 2023 19:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -439,99 +439,124 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidth=\dimen267
 \titlewidthlast=\dimen268
 \titlewidthfirst=\dimen269
+) (C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count311
+\multirow@dima=\skip56
+\bigstrutjot=\dimen270
+) (C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen271
+\ar@mcellbox=\box79
+\extrarowheight=\dimen272
+\NC@list=\toks39
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box80
 )
-\c@tcb@cnt@Definition=\count311
+\c@tcb@cnt@Definition=\count312
  (C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-10-10 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count312
-\l__pdf_internal_box=\box79
+\l__color_backend_stack_int=\count313
+\l__pdf_internal_box=\box81
 ) (resumen.aux)
 \openout1 = `resumen.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
  (C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count313
-\scratchdimen=\dimen270
-\scratchbox=\box80
-\nofMPsegments=\count314
-\nofMParguments=\count315
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count316
-\MPscratchDim=\dimen271
-\MPnumerator=\count317
-\makeMPintoPDFobject=\count318
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count314
+\scratchdimen=\dimen273
+\scratchbox=\box82
+\nofMPsegments=\count315
+\nofMParguments=\count316
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count317
+\MPscratchDim=\dimen274
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
+\everyMPtoPDFconversion=\toks41
 ) (C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count319
+\c@lstlisting=\count320
  (C:\Users\Ford\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks41
-\inpenc@posthook=\toks42
+\inpenc@prehook=\toks42
+\inpenc@posthook=\toks43
 )
-Chapter 1.
 <./imagenes/enlaces-por-complejidad.png, id=40, 444.91219pt x 127.97812pt>
 File: ./imagenes/enlaces-por-complejidad.png Graphic file (type png)
 <use ./imagenes/enlaces-por-complejidad.png>
 Package pdftex.def Info: ./imagenes/enlaces-por-complejidad.png  used on input line 51.
-(pdftex.def)             Requested size: 311.4364pt x 89.58406pt.
+(pdftex.def)             Requested size: 289.18948pt x 83.18478pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\OT1/cmr/m/n/10 Estado de
+ []
+
 <./imagenes/dinitrogeno.png, id=42, 1104.125pt x 836.12375pt>
 File: ./imagenes/dinitrogeno.png Graphic file (type png)
 <use ./imagenes/dinitrogeno.png>
-Package pdftex.def Info: ./imagenes/dinitrogeno.png  used on input line 60.
-(pdftex.def)             Requested size: 55.20947pt x 41.80862pt.
+Package pdftex.def Info: ./imagenes/dinitrogeno.png  used on input line 59.
+(pdftex.def)             Requested size: 27.59631pt x 20.89793pt.
 <./imagenes/grafito.png, id=43, 332.24126pt x 296.10625pt>
 File: ./imagenes/grafito.png Graphic file (type png)
 <use ./imagenes/grafito.png>
 Package pdftex.def Info: ./imagenes/grafito.png  used on input line 62.
-(pdftex.def)             Requested size: 66.44707pt x 59.22018pt.
-File: ./imagenes/dinitrogeno.png Graphic file (type png)
-<use ./imagenes/dinitrogeno.png>
-Package pdftex.def Info: ./imagenes/dinitrogeno.png  used on input line 72.
-(pdftex.def)             Requested size: 55.20947pt x 41.80862pt.
-File: ./imagenes/grafito.png Graphic file (type png)
-<use ./imagenes/grafito.png>
-Package pdftex.def Info: ./imagenes/grafito.png  used on input line 74.
-(pdftex.def)             Requested size: 66.44707pt x 59.22018pt.
-[1
+(pdftex.def)             Requested size: 33.22606pt x 29.61235pt.
+<./imagenes/cloruro de hidrógeno.png, id=44, 1204.5pt x 1204.5pt>
+File: ./imagenes/cloruro de hidrógeno.png Graphic file (type png)
+<use ./imagenes/cloruro de hidrógeno.png>
+Package pdftex.def Info: ./imagenes/cloruro de hidrógeno.png  used on input line 64.
+(pdftex.def)             Requested size: 30.10507pt x 30.10507pt.
+<./imagenes/dioxido de silicio.png, id=45, 220.825pt x 213.79875pt>
+File: ./imagenes/dioxido de silicio.png Graphic file (type png)
+<use ./imagenes/dioxido de silicio.png>
+Package pdftex.def Info: ./imagenes/dioxido de silicio.png  used on input line 67.
+(pdftex.def)             Requested size: 33.12231pt x 32.06842pt.
 
+Overfull \hbox (80.25056pt too wide) in paragraph at lines 55--71
+[]
+ []
 
-{C:/Users/Ford/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagenes/enlaces-por-complejidad.png> <./imagenes/dinitrogeno.png> <./imagenes/grafito.png (PNG copy)>] [2] (resumen.aux)
+[1{C:/Users/Ford/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+ <./imagenes/enlaces-por-complejidad.png> <./imagenes/dinitrogeno.png> <./imagenes/grafito.png (PNG copy)> <./imagenes/cloruro de hidrógeno.png> <./imagenes/dioxido de silicio.png>] (resumen.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 21857 strings out of 474823
- 481361 string characters out of 5751427
- 1929043 words of memory out of 5000000
- 43483 multiletter control sequences out of 15000+600000
- 561047 words of font info for 46 fonts, out of 8000000 for 9000
+ 22007 strings out of 474823
+ 484231 string characters out of 5751427
+ 1933043 words of memory out of 5000000
+ 43626 multiletter control sequences out of 15000+600000
+ 561075 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,11n,107p,506b,1347s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resumen.pdf (2 pages, 425288 bytes).
+ 101i,11n,107p,506b,1349s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Ford\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ford/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on resumen.pdf (1 page, 569373 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 172 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 

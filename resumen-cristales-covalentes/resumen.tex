@@ -4,6 +4,8 @@
 \usepackage{cleveref}
 \usepackage{titlesec}
 \usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{array}
 
 \graphicspath{ {./imagenes/} }
 
@@ -30,14 +32,12 @@
   } 
 }}
 
-\newtcbtheorem[number within=chapter]{Definition}{Definición}{%
+\newtcbtheorem{Definition}{Definición}{%
   theostyle
 }{def}
 
 
 \begin{document}
-
-\chapter{Tipos de enlaces covalentes}
 
 \begin{Definition}{}{ReadingTheManual}
   \textbf{Enlace covalente:} Enalce dado entre elementos no metálicos para formar \textbf{moléculas covalentes}. Los enlaces se forman ya que las moléculas \textbf{comparten} 
@@ -48,32 +48,30 @@
 
 Vienen dados por el \textbf{número de electónes compartido}:
 
-\includegraphics[scale=0.70]{enlaces-por-complejidad.png}
+\includegraphics[scale=0.65]{enlaces-por-complejidad.png}
 
-\section{Elementos covalentes}
+\section{Propiedades los enlaces covalenes}
 
+\begin{tabular}{| c || m{2cm} | c m{8cm} |}
+  \hline
+  & Estado de agregación & Ejemplos & Propiedades generales \\
+  \hline
+  \multirow{2}{3em}{Elem.} & Molecular & \includegraphics[scale=0.025]{dinitrogeno.png} \textit{$ N_{2} $} & Puntos de fusión y ebullición bajos (\textit{generalmente gases}),
+                                                                                                              aislantes eléctricos (\textit{enlace fuerte, no hay electrones sueltos}), 
+                                                                                                              insolubles en agua. \\ [1ex]
+                           & Cristalino  & \includegraphics[scale=0.1]{grafito.png} \textit{$ C $} & Sólidos*. \\ [1 ex]
+  \hline
+  \multirow{2}{3em}{Comp.} & Molecular & \includegraphics[scale=0.025]{cloruro de hidrógeno.png} \textit{$ HCl $} & Puntos de fusión y ebullición bajos (\textit{gases, líquidos, y sólidos}),
+                                                                                                                     malos conductores eléctricos, insolubles en agua pero sí en medios orgánicos.\\
 
-\begin{tabular}{| c | c c |}
-  \hline
-  Estado de agregación & Ejemplos & Propiedades generales \\
-  \hline
-  Cristalino & \includegraphics[scale=0.05]{dinitrogeno.png} \textit{$ N_{2} $} & s \\
-  \hline
-  Molecular & \includegraphics[scale=0.20]{grafito.png} \textit{$ C $} & 788 \\
+                           & Cristalino  & \includegraphics[scale=0.15]{dioxido de silicio.png} \textit{$ SiO_{2} $} & Duros, aislantes eléctricos, insolubles en agua.  \\ [2 ex]
   \hline
 \end{tabular}
+* Demas características dependen del elemento (carbono, silicio...), y de su estructura (laminal, tetrahédrica...):
 
-\section{Compuestos covalentes}
-
-\begin{tabular}{| c | c c |}
-  \hline
-  Estado de agregación & Ejemplos & Propiedades generales \\
-  \hline
-  Cristalino & \includegraphics[scale=0.05]{dinitrogeno.png} \textit{$ N_{2} $} & s \\
-  \hline
-  Molecular & \includegraphics[scale=0.20]{grafito.png} \textit{$ C $} & 788 \\
-  \hline
-\end{tabular}
-
+\begin{itemize}
+  \item \textbf{Diamante:} Estructura tetrahédrica de carbonos. No conduce la electricidad. $ \iff $ Es la conexión más dura que se conoce (\textit{no hay electrones sueltos}).
+  \item \textbf{Grafito:} Redes laminales de carbonos. Conduce la electricidad. $ \iff $ Es blando (\textit{los electrones son libres entre láminas}).
+\end{itemize}
 
 \end{document}
