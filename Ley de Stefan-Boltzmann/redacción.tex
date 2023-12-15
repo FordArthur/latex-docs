@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18, width=10cm}
+
+\title{Ley de Stefan-Boltzmann}
+\author{Marcos Ávila Navas}
+\date{\date{}}
+
+\begin{document}
+
+\maketitle
+
+\section{¿Qué es?}
+
+La Ley de Stefan-Boltzmann (o simplemente la Ley de Stefan) es una ley que relaciona la intensidad de la radiación que emite un cuerpo con la temperatura de ese mismo cuerpo. Concretamente, la potencia de emisión ($W$) es igual a la emisividad ($1$ para un cuerpo negro) por la constante de Stefan ($\approx 5,6703*10^{-8}$) por el área radiante ($m^{2}$) y por la temperatura del cuerpo ($K$). En ecuación:
+
+\[P = e \sigma A T^{4} \]
+
+La ley fue deducida en 1879 por el físico austriaco Jožef Stefan (1835-1893) gracias a las mediciones de John Tyndall.
+
+\section{Gráfica}
+\begin{tikzpicture}
+\begin{axis}[axis lines=left, xmin=0, xmax=25]
+\addplot[]{(5.6703*10^-8)*x^4};
+\addplot[color=red]{(0.75*5.6703*10^-8)*x^4};
+\addplot[color=orange]{(0.5*5.6703*10^-8)*x^4};
+\addplot[color=yellow]{(0.25*5.6703*10^-8)*x^4};
+\end{axis}
+\end{tikzpicture}
+
+\end{document}
